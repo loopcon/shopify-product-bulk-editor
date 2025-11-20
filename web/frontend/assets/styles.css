@@ -1,0 +1,127 @@
+.plans {
+  width: 100%;
+}
+
+.autocomplete {
+  padding-left: 1%;
+}
+
+.search {
+  padding-right: 1%;
+}
+
+.color {
+  padding-left: 1%;
+}
+
+.color1 {
+  padding-right: 1%;
+}
+
+.square-border {
+  width: 360px;
+  height: 300px;
+  border: 1px solid #00000041;
+  border-radius: 12px;
+  padding-top: 3%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.dash {
+  width: 900px;
+}
+
+.dash2 {
+  padding-top: 15%;
+}
+
+.dash3 {
+  padding-top: 12%;
+}
+
+.dash4 {
+  padding-top: 12%;
+}
+
+.button {
+  margin-left: 355px;
+  width: 150px;
+  padding-top: 10%;
+}
+
+.plans {
+  width: 100%;
+}
+
+.autocomplete,
+.search,
+.color,
+.color1 {
+  padding: 0 1%;
+}
+
+.square-border {
+  width: 360px;
+  height: 300px;
+  border: 1px solid #00000041;
+  border-radius: 12px;
+  padding: 3%;
+}
+
+.dash {
+  width: 900px;
+}
+
+.text {
+  padding-left: 12%;
+}
+
+.dash2,
+.dash3,
+.dash4 {
+  padding-top: 12%;
+}
+
+.qty,
+.qty1,
+.qty2 {
+  width: 100%;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  padding-left: 30%;
+  padding-top: 8%;
+  gap: 15px;
+}
+
+.appblock {
+  padding-top: 10%;
+}
+
+.samplebox {
+  padding-top: 10%;
+}
+
+.plans {
+  padding-top: 10%;
+}
+
+.cartwidth {
+  width: 150px;
+}
+
+.button2 {
+  padding-left: 1200%;
+  padding-top: 30%;
+}
